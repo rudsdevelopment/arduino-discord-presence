@@ -9,13 +9,24 @@
 ### For .cpp files
 ![](https://ruds.neocities.org/c++.png)
 
-# Setting Up
+# ⚙️Setting Up
 - **Download [VSIX File](https://github.com/rudsdevelopment/arduino-discord-presence/releases/download/release/arduino-rpc-1.0.9.vsix)**
 - **Place it to %USERPATH%/.arduinoIDE/plugins (If you don't have "plugin" directory, create new directory has named "plugin")**
 
 - **Example: C:/Users/tugra/.arduinoIDE/plugins**
 
 - **If you did these, have fun :)**
+
+# 🤝 Forking
+```bash
+git clone https://github.com/rudsdevelopment/arduino-discord-presence.git
+cd arduino-discord-presence
+npm i
+```
+**and for packaging**
+```bash
+npx @vscode/vsce package
+```
 
 # 📞 Contact
 
