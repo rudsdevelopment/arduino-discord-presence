@@ -1,6 +1,6 @@
 ![Arduino](https://ruds.neocities.org/arduino.jpeg)
 # Arduino Rich Presence
-**According to file you are in, Sets your discord rich presence. It supports ".ino" and ".cpp" files (not ".h" or ".c". When I try to taking their data, It didn't work)**
+**According to file you are in, sets your discord rich presence. It supports ".ino" and ".cpp" files (not ".h" or ".c". When I try to taking their data, It didn't work)**
 
 # Examples
 ### For .ino files
