@@ -11,7 +11,7 @@
 
 # ⚙️Setting Up
 - **Download [VSIX File](https://github.com/rudsdevelopment/arduino-discord-presence/releases/download/release/arduino-rpc-1.0.9.vsix)**
-- **Place it to %USERPATH%/.arduinoIDE/plugins (If you don't have "plugin" directory, create new directory has named "plugin")**
+- **Place it to %USERPATH%/.arduinoIDE/plugins (If you don't have "plugin" directory, create new directory named "plugin")**
 
 - **Example: C:/Users/tugra/.arduinoIDE/plugins**
 
