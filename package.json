@@ -4,7 +4,7 @@
   },
   "name": "arduino-rpc",
   "version": "1.0.9",
-  "description": "",
+  "description": "According to file you are in, sets your discord rich presence.",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -21,8 +21,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["presence", "arduino", "rich-presence", "discord", "application"],
+  "author": "Uranüs PortakalAdam",
   "license": "ISC",
   "type": "commonjs"
 }
